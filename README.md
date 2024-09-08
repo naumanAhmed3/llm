@@ -5,7 +5,7 @@ If you are interested in continuing the development of this project, or obtainin
 
 There are several high-quality alternatives for inference of LLMs and other models in Rust. We recommend that you consider using one of these libraries instead of `llm`; they have been kept up-to-date and are more likely to be actively maintained.
 
-A selection is presented below. Note that this is not an exhaustive list, and the best solution for you may have changed since this list was compiled:
+A selection is presented below. Note that this is not an exhaustivDASLFDKAKFSLDGVDSFSDGFSDFDSe list, and the best solution for you may have changed since this list was compiled:
 
 - [Ratchet](https://github.com/huggingface/ratchet): a `wgpu`-based ML inference library with a focus on web support and efficient inference
 - [Candle](https://github.com/huggingface/candle)-based libraries (i.e. pure Rust outside of platform support libraries):
